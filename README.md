@@ -1,1 +1,1 @@
-# Native_android_and_flutter_app_development
+# My independent projects on native android and flutter app development
